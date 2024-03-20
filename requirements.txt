@@ -1,0 +1,5 @@
+dash==2.16.1
+dash-core-components==2.0.17
+dash-html-components==2.13.1
+dash-table==5.0.0
+numpy==1.23.3
