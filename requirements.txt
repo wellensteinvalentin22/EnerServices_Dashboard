@@ -1,6 +1,7 @@
-dash==2.16.1
-dash-core-components==2.0.17
-dash-html-components==2.13.1
+dash==2.9.1
+dash-core-components==2.0.0
+dash-html-components==2.0.0
 dash-table==5.0.0
-numpy==1.23.3
-gunicorn
+Flask==2.2.3
+importlib-metadata==6.1.0
+plotly==5.13.1 gunicorn
